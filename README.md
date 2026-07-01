@@ -99,11 +99,12 @@ The application will open automatically in your browser.
 
 ### Home Page
 
-*Add a screenshot here after running the application.*
+<img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/4758ef1b-7c0d-46a6-9aba-908269b422c4" />
 
 ### Prediction Result
 
-*Add a screenshot showing the prediction result.*
+<img width="1912" height="980" alt="image" src="https://github.com/user-attachments/assets/999beef9-a74c-450c-8a00-ff43a8632bbb" />
+
 
 ---
 
